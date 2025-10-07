@@ -9,3 +9,5 @@ the documentation can be found [here](https://razvansb.gitbook.io/razvansb-docs/
 
 ### other stuff
 the code may be hard to read since i didnt originally intend to make it open-source. if you got any questions, feel free to dm me on discord (_razvaan).
+
+please note that i only made razvanSB out of boredom and i did not intend to make it *extremely* secure. it only has the basic and bare minimum security standards that a restricted script builder needs.
